@@ -35,4 +35,3 @@ function switchOnCharmFromTip(tipString){
       return "Bye."
   }
 }
-
